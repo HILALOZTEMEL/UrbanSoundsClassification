@@ -2,8 +2,7 @@
 Urban Sounds Classification Koç Holding Derin Öğrenme Bootcamp
 
 Dataset
-Spectrograms:https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf_5dG
-ANZWmCog?usp=sharing
+Spectrograms:https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf5dGANZWmCog?usp=sharing
 
 This project,using the “UrbanSounds8K” dataset, the sounds heard in the cities
 I will do a project on classification.
