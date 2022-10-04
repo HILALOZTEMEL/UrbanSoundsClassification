@@ -18,8 +18,8 @@ and normalize.
 b. Save images with their tags in [image, tag] format.
 add to the list.
 
-c. Using this list, you can view the X_train, y_train, X_val, y_val, X_test and y_test datasets.
-create.
+c. Using this list, you can view the X_train, y_train, X_val, y_val, X_test and y_test create datasets.
+
 
 D. Save these datasets to your computer.
 
